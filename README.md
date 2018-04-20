@@ -17,5 +17,34 @@ The list is categorizes into sections and subsections, but don't let it get out 
 * [Guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
 Basically, each items should be formatted as Markdown as a bullet point, use capitalization, etc.
+Organize categories, subcategories, and items alphabetically.
 
 ***
+
+# Community
+
+## Contributing
+
+
+# Data
+
+## Collection
+
+## Visualization
+
+
+# Learning
+Guides and resources for beginners trying to get into this whole mapping thing.
+
+
+# Mapping
+
+
+# Surveying
+
+
+***
+
+# Unknown
+Links here have yet to be put into a category. Please make an effort to sort them!
+Feel free to create a new category if they really have no place to go.
