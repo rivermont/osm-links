@@ -19,6 +19,7 @@ The list can contain anything from materials for contributors, guides for newcom
   - [Learning](#learning)
   - [Mapping](#mapping)
     - [Error Detection](#error-detection)
+  - [News](#news)
   - [Surveying](#surveying)
   - [Unknown](#unknown)
 
