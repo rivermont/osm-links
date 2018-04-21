@@ -19,6 +19,7 @@ The list can contain anything from materials for contributors, guides for newcom
   - [Learning](#learning)
   - [Mapping](#mapping)
     - [Error Detection](#error-detection)
+  - [News](#news)
   - [Surveying](#surveying)
   - [Unknown](#unknown)
 
@@ -65,7 +66,12 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 ## Error Detection
 
 - [Keep Right!](https://www.keepright.at)
+- [OSM Inspector](https://tools.geofabrik.de/osmi/)
+- [Osmose](https://osmose.openstreetmap.fr/)
 
+# News
+
+- [weeklyOSM](http://www.weeklyosm.eu/)
 
 # Surveying
 
