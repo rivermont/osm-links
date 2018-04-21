@@ -65,7 +65,8 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 ## Error Detection
 
 - [Keep Right!](https://www.keepright.at)
-
+- [OSM Inspector](https://tools.geofabrik.de/osmi/)
+- [Osmose](https://osmose.openstreetmap.fr/)
 
 # Surveying
 
