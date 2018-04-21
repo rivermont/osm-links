@@ -68,6 +68,10 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 - [OSM Inspector](https://tools.geofabrik.de/osmi/)
 - [Osmose](https://osmose.openstreetmap.fr/)
 
+# News
+
+- [weeklyOSM](http://www.weeklyosm.eu/)
+
 # Surveying
 
 - [Fieldpapers](http://fieldpapers.org/): Paper-based surveying.
