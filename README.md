@@ -10,6 +10,7 @@ The list can contain anything from materials for contributors, guides for newcom
   - [OSM Links](#osm-links)
     - [About](#about)
     - [Contribute to this project](#contribute-to-this-project)
+      - [Note on Languages](#note-on-languages)
 
   - [Community](#community)
     - [Contributing](#contributing)
@@ -32,6 +33,10 @@ The list is categorizes into sections and subsections, but don't let it get out 
 
 Basically, each items should be formatted as Markdown as a bullet point, use capitalization, etc.
 Organize categories, subcategories, and items alphabetically.
+
+#### Note on Languages
+OpenStreetMap is a global project and is available in tons of languages, however some tools are available in only certain languages.
+Links are assumed to be in English, but items with a country flag emoji are only available in specific non-English languages.
 
 
 ***
@@ -66,7 +71,7 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 ## Error Detection
 
 - [Keep Right!](https://www.keepright.at)
-- [layers.openstreetmap.fr](http://layers.openstreetmap.fr/)
+- [layers.openstreetmap.fr](http://layers.openstreetmap.fr/) (🇫🇷)
 - [OSM Inspector](https://tools.geofabrik.de/osmi/)
 - [Osmose](https://osmose.openstreetmap.fr/)
 
