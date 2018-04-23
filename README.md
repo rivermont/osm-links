@@ -55,7 +55,7 @@ Links are assumed to be in English, but items with a country flag emoji are only
 
 ## Visualization
 
-- [F4map](demo.f4map.com/): OSM 3D render.
+- [F4map](http://demo.f4map.com): OSM 3D render.
 - [OSM Heatmap](http://yosmhm.neis-one.org/): View a heatmap of a user's changes.
 - [OSM Visual History](https://aleung.github.io/osm-visual-history/): View history of objects in OpenStreetMap.
 
