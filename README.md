@@ -18,6 +18,7 @@ The list can contain anything from materials for contributors, guides for newcom
   - [Data](#data)
     - [Collection](#collection)
     - [Visualization](#visualization)
+      - [3D Rendering](#3d-rendering)
   - [Learning](#learning)
   - [Mapping](#mapping)
     - [Error Detection](#error-detection)
