@@ -12,6 +12,7 @@ The list can contain anything from materials for contributors, guides for newcom
     - [Contribute to this project](#contribute-to-this-project)
       - [Note on Languages](#note-on-languages)
 
+  - [Apps](#apps)
   - [Community](#community)
     - [Contributing](#contributing)
   - [Data](#data)
@@ -41,6 +42,10 @@ Links are assumed to be in English, but items with a country flag emoji are only
 
 ***
 
+# Apps
+
+- [StreetComplete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) (Android): Very useful for adding speed limits, lit, surface, bike parking capacity, shelters at bus stops, and much more.
+
 # Community
 
 - [OpenStreetMap Official Wiki](https://wiki.openstreetmap.org/wiki/Main_Page)
@@ -55,9 +60,15 @@ Links are assumed to be in English, but items with a country flag emoji are only
 
 ## Visualization
 
-- [F4map](http://demo.f4map.com): OSM 3D render.
+- [ITO Map](http://product.itoworld.com/map/main)
 - [OSM Heatmap](http://yosmhm.neis-one.org/): View a heatmap of a user's changes.
 - [OSM Visual History](https://aleung.github.io/osm-visual-history/): View history of objects in OpenStreetMap.
+- [Street Lamps](http://inai.de/sl)
+
+#### 3D Rendering
+
+- [F4map](http://demo.f4map.com)
+- [OSM Buildings](https://osmbuildings.org/
 
 # Learning
 Guides and resources for beginners trying to get into this whole mapping thing.
@@ -67,6 +78,7 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 # Mapping
 
 - [TagInfo](https://taginfo.openstreetmap.org/): Statistics on tags.
+- [Wheelmap](https://wheelmap.org): Mark and find wheelchair accessible places.
 
 ## Error Detection
 
