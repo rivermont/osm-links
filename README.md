@@ -110,3 +110,4 @@ Links here have yet to be put into a category. Please make an effort to sort the
 Feel free to create a new category if they really have no place to go.
 
 - [NotesReview](https://ent8r.github.io/NotesReview/)
+- [Tag History](http://taghistory.raifer.tech/): View a graph of tag usage over time, and overlay other tags on top of it.
