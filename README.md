@@ -49,6 +49,8 @@ Links are assumed to be in English, but items with a country flag emoji are only
 
 # Community
 
+- [New OSM Contributors in Belgium](https://welcome.osm.be/login.php) (🇧🇪): This is a platform to coordinate welcoming new mappers in Belgium.
+- [Nuevos mapeadores OSM en España](http://bienvenida.openstreetmap.es/index.php) (🇪🇸): This is a platform to coordinate welcoming new mappers in Spain.
 - [OpenStreetMap Official Wiki](https://wiki.openstreetmap.org/wiki/Main_Page)
 
 ## Contributing
