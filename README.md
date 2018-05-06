@@ -110,5 +110,5 @@ Links here have yet to be put into a category. Please make an effort to sort the
 Feel free to create a new category if they really have no place to go.
 
 - [NotesReview](https://ent8r.github.io/NotesReview/)
-- [osm-community-index(]https://github.com/tyrasd/osm-community-index): A list of resources for users of OpenStreetMap: Links to forums, meetups, Slack groups, IRC channels, mailing lists, and so on.
+- [osm-community-index](https://github.com/tyrasd/osm-community-index): A list of resources for users of OpenStreetMap: Links to forums, meetups, Slack groups, IRC channels, mailing lists, and so on.
 - [Tag History](http://taghistory.raifer.tech/): View a graph of tag usage over time, and overlay other tags on top of it.
