@@ -49,8 +49,6 @@ Links are assumed to be in English, but items with a country flag emoji are only
 
 # Community
 
-- [New OSM Contributors in Belgium](https://welcome.osm.be/login.php) (🇧🇪): This is a platform to coordinate welcoming new mappers in Belgium.
-- [Nuevos mapeadores OSM en España](http://bienvenida.openstreetmap.es/index.php) (🇪🇸): This is a platform to coordinate welcoming new mappers in Spain.
 - [OpenStreetMap Official Wiki](https://wiki.openstreetmap.org/wiki/Main_Page)
 
 ## Contributing
@@ -80,6 +78,7 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 
 # Mapping
 
+- [Map Metrics for OSM](https://metrics.improveosm.org/): A portal where you can view different metrics on OSM. Focused on navigation attributes like length of navigable roads, number of turn restrictions, signposts and many more.
 - [TagInfo](https://taginfo.openstreetmap.org/): Statistics on tags.
 - [Wheelmap](https://wheelmap.org): Mark and find wheelchair accessible places.
 
