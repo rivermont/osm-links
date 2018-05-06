@@ -97,10 +97,10 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 - [Fieldpapers](http://fieldpapers.org/): Paper-based surveying.
 - [Mapillary](https://www.mapillary.com/): Croudsourced streetview imagery.
 
-
 # Tasking
 Tools for creating, distributing and assigning tasks and projects.
 
+- [Gestor de tareas](http://tareas.openstreetmap.es/) (🇪🇸)
 - [OSM Tasking Manager](http://tasks.openstreetmap.us/)
 
 ***
