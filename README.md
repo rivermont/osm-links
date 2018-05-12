@@ -71,7 +71,7 @@ Links are assumed to be in English, but items with a country flag emoji are only
 #### 3D Rendering
 
 - [F4map](http://demo.f4map.com)
-- [OSM Buildings](https://osmbuildings.org/
+- [OSM Buildings](https://osmbuildings.org/)
 
 # Learning
 Guides and resources for beginners trying to get into this whole mapping thing.
