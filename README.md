@@ -91,6 +91,7 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 - [OSM Inspector](https://tools.geofabrik.de/osmi/)
 - [Osmose](https://osmose.openstreetmap.fr/)
 - [osm qa feeds](https://tyrasd.github.io/osm-qa-feeds/): Get a list of OpenStreetMap quality assurance feeds for an area of your choice.
+- [opening_hours evaluation tool](http://openingh.openstreetmap.de/evaluation_tool/): Validate and evaluate `opening_hours=*` tags.
 
 # News
 
