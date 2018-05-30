@@ -81,6 +81,7 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 # Mapping
 
 - [Map Metrics for OSM](https://metrics.improveosm.org/): A portal where you can view different metrics on OSM. Focused on navigation attributes like length of navigable roads, number of turn restrictions, signposts and many more.
+- [Pic4Review](https://pic4review.pavie.info):  Participate on map editing missions.
 - [TagInfo](https://taginfo.openstreetmap.org/): Statistics on tags.
 - [Wheelmap](https://wheelmap.org): Mark and find wheelchair accessible places.
 
