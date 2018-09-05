@@ -25,6 +25,7 @@ The list can contain anything from materials for contributors, guides for newcom
   - [News](#news)
   - [Surveying](#surveying)
   - [Unknown](#unknown)
+  - [Other Lists](#other-lists)
 
 
 ## Contribute to this project
@@ -56,6 +57,7 @@ Links are assumed to be in English, but items with a country flag emoji are only
 ## Contributing
 
 - [OSM Homepage - GitHub](https://github.com/openstreetmap/openstreetmap-website): Contribute to the front page.
+- [Overpass Turbo](https://overpass-turbo.eu/)
 
 # Data
 
@@ -67,6 +69,8 @@ Links are assumed to be in English, but items with a country flag emoji are only
 - [OSM Heatmap](http://yosmhm.neis-one.org/): View a heatmap of a user's changes.
 - [OSM Visual History](https://aleung.github.io/osm-visual-history/): View history of objects in OpenStreetMap.
 - [Street Lamps](http://inai.de/sl)
+- [Fire Hydrants](http://openfiremap.org/): Show fire stations and hydrants on the map.
+- [Street Lamps](http://inai.de/sl) (🇩🇪)
 
 #### 3D Rendering
 
@@ -119,3 +123,14 @@ Feel free to create a new category if they really have no place to go.
 - [NotesReview](https://ent8r.github.io/NotesReview/)
 - [osm-community-index](https://github.com/tyrasd/osm-community-index): A list of resources for users of OpenStreetMap: Links to forums, meetups, Slack groups, IRC channels, mailing lists, and so on.
 - [Tag History](http://taghistory.raifer.tech/): View a graph of tag usage over time, and overlay other tags on top of it.
+- [Fixing Sidewalks (Mapbox)](https://mapbox.com/osm-sidewalker): A useful tool that shows footways near roads that might need a sidewalk tag.
+- [Open Source Routing Machine](http://map.project-osrm.org/): Amazing route planner as well as being useful for finding disconnected ways and routing mistakes.
+- [Who's Around Me? (Neis One)](http://resultmaps.neis-one.org/oooc)
+- [ITO Map](http://product.itoworld.com/map/main)
+- [Wheelmap](https://wheelmap.org/map) (🇩🇪)
+- [Wheelmap - EN](https://wheelmap.org/en/map)
+
+# Other Lists
+
+  - [Useful OSM Resources (Mapbox)](https://www.mapbox.com/mapping/becoming-a-power-mapper/useful-osm-resources/)
+  - [u/Spanholz on reddit](https://www.reddit.com/r/openstreetmap/comments/6isju5/openstreetmap_websitesapps_to_share/)
