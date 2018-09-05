@@ -1,0 +1,26 @@
+https://www.mapbox.com/osm-sidewalker/#12.22/36.0403/-78.9356 for finding sidewalks missing "footway"="sidewalk".
+
+http://openfiremap.org/ for viewing fire hydrants and fire stations.
+
+http://map.project-osrm.org/ for getting directions and finding disconnected ways and routing mistakes (bad turn restrictions, disconnected streets, etc...).
+
+https://overpass-turbo.eu/ is missing from the list for some reason.
+
+http://resultmaps.neis-one.org/oooc?layers=B00FTFFFFT for finding users in a certain area.
+
+
+https://www.reddit.com/r/openstreetmap/comments/6isju5/openstreetmap_websitesapps_to_share/
+
+
+ITO Map: http://product.itoworld.com/map/main
+
+Street Lamps: http://inai.de/sl/#15/36.0231/-78.9373
+
+OSM Buildings: https://osmbuildings.org/?lat=36.05473&lon=-78.97158&zoom=17.6&tilt=45&rotation=2 (F4Map is better)
+
+StreetComplete survey app: Available on Google Play (not on Apple App Store) Very useful for adding speed limits, lit, surface, bike parking capacity, shelters at bus stops, and much more.
+
+WheelMap: https://wheelmap.org/en/map#/?lat=36.0353922085622&lon=-78.9292573928833&zoom=14
+
+
+https://www.mapbox.com/mapping/becoming-a-power-mapper/useful-osm-resources/
