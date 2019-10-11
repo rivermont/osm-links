@@ -129,6 +129,7 @@ Feel free to create a new category if they really have no place to go.
 - [ITO Map](http://product.itoworld.com/map/main)
 - [Wheelmap](https://wheelmap.org/map) (🇩🇪)
 - [Wheelmap - EN](https://wheelmap.org/en/map)
+- [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist) - List of OSM software and their current version number
 
 # Other Lists
 
