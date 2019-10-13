@@ -81,6 +81,7 @@ Links are assumed to be in English, but items with a country flag emoji are only
 Guides and resources for beginners trying to get into this whole mapping thing.
 
 - [LearnOSM](http://learnosm.org/en/): A series of guides to get you started.
+- [OpenStreetMap StackExchange site](https://help.openstreetmap.org/) a Q&A site that helps to find the best-suited answer
 
 # Mapping
 
