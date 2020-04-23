@@ -90,6 +90,7 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 - [TagInfo](https://taginfo.openstreetmap.org/): Statistics on tags.
 - [Wheelmap](https://wheelmap.org): Mark and find wheelchair accessible places.
 
+
 ## Error Detection
 
 - [Keep Right!](https://www.keepright.at)
@@ -128,8 +129,6 @@ Feel free to create a new category if they really have no place to go.
 - [Open Source Routing Machine](http://map.project-osrm.org/): Amazing route planner as well as being useful for finding disconnected ways and routing mistakes.
 - [Who's Around Me? (Neis One)](http://resultmaps.neis-one.org/oooc)
 - [ITO Map](http://product.itoworld.com/map/main)
-- [Wheelmap](https://wheelmap.org/map) (🇩🇪)
-- [Wheelmap - EN](https://wheelmap.org/en/map)
 - [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist) - List of OSM software and their current version number
 
 # Other Lists
