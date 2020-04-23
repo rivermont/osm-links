@@ -82,6 +82,7 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 
 - [LearnOSM](http://learnosm.org/en/): A series of guides to get you started.
 - [OpenStreetMap StackExchange site](https://help.openstreetmap.org/) a Q&A site that helps to find the best-suited answer
+- [YoHours](https://projets.pavie.info/yohours/) OpenStreetMap opening_hours made easy! 
 
 # Mapping
 
@@ -89,6 +90,7 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 - [Pic4Review](https://pic4review.pavie.info):  Participate on map editing missions.
 - [TagInfo](https://taginfo.openstreetmap.org/): Statistics on tags.
 - [Wheelmap](https://wheelmap.org): Mark and find wheelchair accessible places.
+
 
 ## Error Detection
 
@@ -124,12 +126,9 @@ Feel free to create a new category if they really have no place to go.
 - [NotesReview](https://ent8r.github.io/NotesReview/)
 - [osm-community-index](https://github.com/tyrasd/osm-community-index): A list of resources for users of OpenStreetMap: Links to forums, meetups, Slack groups, IRC channels, mailing lists, and so on.
 - [Tag History](http://taghistory.raifer.tech/): View a graph of tag usage over time, and overlay other tags on top of it.
-- [Fixing Sidewalks (Mapbox)](https://mapbox.com/osm-sidewalker): A useful tool that shows footways near roads that might need a sidewalk tag.
 - [Open Source Routing Machine](http://map.project-osrm.org/): Amazing route planner as well as being useful for finding disconnected ways and routing mistakes.
 - [Who's Around Me? (Neis One)](http://resultmaps.neis-one.org/oooc)
 - [ITO Map](http://product.itoworld.com/map/main)
-- [Wheelmap](https://wheelmap.org/map) (🇩🇪)
-- [Wheelmap - EN](https://wheelmap.org/en/map)
 - [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist) - List of OSM software and their current version number
 
 # Other Lists
