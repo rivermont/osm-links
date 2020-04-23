@@ -125,7 +125,6 @@ Feel free to create a new category if they really have no place to go.
 - [NotesReview](https://ent8r.github.io/NotesReview/)
 - [osm-community-index](https://github.com/tyrasd/osm-community-index): A list of resources for users of OpenStreetMap: Links to forums, meetups, Slack groups, IRC channels, mailing lists, and so on.
 - [Tag History](http://taghistory.raifer.tech/): View a graph of tag usage over time, and overlay other tags on top of it.
-- [Fixing Sidewalks (Mapbox)](https://mapbox.com/osm-sidewalker): A useful tool that shows footways near roads that might need a sidewalk tag.
 - [Open Source Routing Machine](http://map.project-osrm.org/): Amazing route planner as well as being useful for finding disconnected ways and routing mistakes.
 - [Who's Around Me? (Neis One)](http://resultmaps.neis-one.org/oooc)
 - [ITO Map](http://product.itoworld.com/map/main)
